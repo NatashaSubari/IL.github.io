@@ -1,18 +1,18 @@
 @font-face {
     font-family:"typo";
-    src: url(fontsas/typo.otf) format('truetype');
+    src: url(typo.otf) format('truetype');
     font-weight: normal;
 }
 
 @font-face {
     font-family:"uni";
-    src: url(fontsas/uni.otf) format('truetype');
+    src: url(uni.otf) format('truetype');
     font-weight: normal;
 }
 
 @font-face {
     font-family:"alte";
-    src: url(fontsas/alte.ttf) format('truetype');
+    src: url(alte.ttf) format('truetype');
     font-weight: bolder;
 }
 
